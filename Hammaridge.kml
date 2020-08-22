@@ -224,7 +224,10 @@ Lilliwaup, WA 98555]]></description>
 		</Placemark>
 		<Placemark>
 			<name>323047590104</name>
-			<description><![CDATA[Watson<br>(NEED INFO)]]></description>
+			<description><![CDATA[Adam Cuppoletti<br>
+<br>
+1024 Country Club Drive<br>
+Petaluma, CA 94952]]></description>
 			<styleUrl>#m_ylw-pushpin</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>
@@ -581,7 +584,7 @@ Everett, WA 98208]]></description>
 		</Placemark>
 		<Placemark>
 			<name>323047590013</name>
-			<description><![CDATA[LUNDQUIST MICHAEL D<br>
+			<description><![CDATA[Michael Lundquist<br>
 <br>
 PO Box 25<br>
 Lilliwaup, WA 98555]]></description>
