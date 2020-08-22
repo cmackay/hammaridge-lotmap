@@ -724,21 +724,6 @@ Hoodsport, WA 98548]]></description>
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>323047590033</name>
-			<description><![CDATA[needs boundary update]]></description>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
-			<Polygon>
-				<tessellate>1</tessellate>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							123.06930788,47.51769622 -123.07072414,47.51768255 -123.07052049,47.5183797 -123.06983324,47.51866572 -123.06930788,47.51769622 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
 			<name>323047590040</name>
 			<description><![CDATA[Matthew Kraft<br>
 <br>
