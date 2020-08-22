@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <NetworkLink>
+    <open>1</open>
+    <Region>
+      <LatLonAltBox>
+        <north>47.572902425572</north>
+        <south>47.517682553409</south>
+        <east>-123.01596663632</east>
+        <west>-123.07212278133</west>
+      </LatLonAltBox>
+    <Lod>
+      <minLodPixels>1517.7737043494</minLodPixels>
+    </Lod>
+    </Region>
+    <refreshVisibility>1</refreshVisibility>
+    <Link>
+      <href>leaf_Shape-38.kml</href>
+      <viewRefreshMode>onRegion</viewRefreshMode>
+    </Link>
+  </NetworkLink>
+  <NetworkLink>
+    <open>1</open>
+    <Region>
+      <LatLonAltBox>
+        <north>47.572902425572</north>
+        <south>47.517682553409</south>
+        <east>-123.01596663632</east>
+        <west>-123.07212278133</west>
+      </LatLonAltBox>
+    <Lod>
+      <minLodPixels>758.88685217469</minLodPixels>
+      <maxLodPixels>1517.7737043494</maxLodPixels>
+    </Lod>
+    </Region>
+    <refreshVisibility>1</refreshVisibility>
+    <Link>
+      <href>leaf_Shape_lowres-38.kml</href>
+      <viewRefreshMode>onRegion</viewRefreshMode>
+    </Link>
+  </NetworkLink>
+</Document>
+</kml>
