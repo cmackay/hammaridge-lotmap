@@ -814,6 +814,28 @@ St. Augustine, FL 32092]]></description>
 			</Polygon>
 		</Placemark>
 		<Placemark>
+			<name>323047590011</name>
+			<description><![CDATA[needs boundary update]]></description>
+			<LookAt>
+				<longitude>-123.0689742042678</longitude>
+				<latitude>47.52053000095292</latitude>
+				<altitude>0</altitude>
+				<heading>0.02700888217279569</heading>
+				<tilt>4.509933984143675</tilt>
+				<range>449.4268709381729</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>-123.07050404,47.52155897 -123.07046372,47.52004844 -123.07054378,47.51992256 -123.07056773,47.52005866 -123.07209416,47.5204932 -123.07212278,47.52155595 -123.07050404,47.52155897</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
 			<name>323047590012</name>
 			<description><![CDATA[Marilyn & James Kromwall<br>
 <br>

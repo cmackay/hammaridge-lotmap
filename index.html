@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+    <head>
+        <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+  </head>
+  <body>
+    <script type="text/javascript">
+        <!--
+        function onload_gmap(func) {
+          var oldonload = window.onload;
+          if (typeof window.onload != 'function') {window.onload = func;} else {
+            window.onload = function() {if (oldonload){oldonload();}func();}
+          }
+        }
+        
+        function display_gmap_gmap(id, centerLatitude, centerLongitude, startZoom, description, kml, control, maptype, show_marker, addoverview, addscale, addgoogle, streetview) {
+            var latlng = new google.maps.LatLng(centerLatitude, centerLongitude);
+            if (startZoom==0 || startZoom=='') startZoom=10;
+            var mapdiv = document.getElementById("gmap_gmap"+id);
+            var myOptions = {
+              zoom: startZoom,
+              center: latlng
+            };
+            var map = new google.maps.Map(mapdiv, myOptions);
+            if (kml!='') {
+                var myKMLOptions = {
+                  //suppressInfoWindows: true,
+                  map: map,
+                  preserveViewport: true
+                };
+                var georssLayer = new google.maps.KmlLayer(kml, myKMLOptions);
+                  georssLayer.setMap(map);
+            }
+            format_gmap(map, control, maptype, show_marker, addoverview, addscale, addgoogle);
+            format2_gmap(map, id, streetview);
+        
+            if (show_marker) show_gmap_marker(map, latlng, centerLatitude, centerLongitude, description);
+            return map;
+        }
+        
+        function format_gmap(map, control, maptype, show_marker, addoverview, addscale, addgoogle) {
+            if (addscale==1) map.setOptions({scaleControl: true});
+            //if (addoverview=='1') {map.setOptions({overviewMapControl: true, overviewMapControlOptions:{opened: true}});} else {map.setOptions({overviewMapControl: false});}
+            if (addoverview==1) map.setOptions({overviewMapControl: true, overviewMapControlOptions:{opened: true}});
+            //map.setOptions({google.maps.MapTypeId: ROADMAP});
+            if (maptype=='SATELLITE') {map.setOptions({MapTypeId: google.maps.MapTypeId.SATELLITE});}
+            else if (maptype=='TERRAIN') {map.setOptions({MapTypeId: google.maps.MapTypeId.TERRAIN});}
+            else if (maptype=='HYBRID') {map.setOptions({MapTypeId: google.maps.MapTypeId.HYBRID});}
+            else {map.setOptions({MapTypeId: google.maps.MapTypeId.ROADMAP});}
+        }
+        
+        function format2_gmap(map, id, streetview) {
+            if (streetview==1) {map.setOptions({streetViewControl: true});}
+            else {map.setOptions({streetViewControl: false});}
+            
+        }
+        
+        function show_gmap_marker(map, latlng, centerLatitude, centerLongitude, description) {
+            var desc = description;
+            if (desc=='') desc = '('+centerLatitude+', '+centerLongitude+')';
+            var title_desc = desc.replace(/<br \/>/g, ' ');
+            title_desc = title_desc.replace(/~/g, '');
+            var marker = new google.maps.Marker({
+                position:latlng,
+                map:map,
+                labelClass: "googleMaps_label",
+                title:title_desc
+            });
+            var infowindow = new google.maps.InfoWindow({content:desc.replace(/~/g, '<br />')});
+            google.maps.event.addListener(marker, 'click', function() {infowindow.open(map, marker);});
+        }
+        
+        -->
+        </script>
+        
+        
+        <!-- 
+        Powered by Joomla Gadgets from kksou.com
+        https://www.kksou.com/php-gtk2/Joomla-Gadgets/googleMaps-plugin.php
+        -->
+        
+        
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD1WzKV76XXeVR6Acyb3P2s8rO6dbXSW_s&amp;language="></script>
+        <script type="text/javascript">
+        <!--
+        function init_gmap_gmap(id, addr, centerLatitude, centerLongitude, startZoom, description, kml, control, maptype, show_marker, addoverview, addscale, addgoogle, streetview) {
+            var map;
+            if (addr!='') {
+                var addr2 = addr.replace(/~/g, '');
+                var latlng_RegExp = /(-?\d+\.\d+)\s*,\s*(-?\d+\.\d+)/;
+                if (latlng_RegExp.test(addr2)) {
+                    var str = addr2.match(latlng_RegExp);
+                    map = display_gmap_gmap(id, str[1], str[2], startZoom, description, kml, control, maptype, show_marker, addoverview, addscale, addgoogle, streetview);
+                } else {
+                    var geocoder = new google.maps.Geocoder();
+                    geocoder.geocode( { 'address': addr2}, function(results, status) {
+                      if (status == google.maps.GeocoderStatus.OK) {
+                        if (description=='') description = addr;
+                          map = display_gmap_gmap(id, results[0].geometry.location.lat(), results[0].geometry.location.lng(), startZoom, description, kml, control, maptype, show_marker, addoverview, addscale, addgoogle, streetview);
+                      } else {
+                        alert('Google cannot decode your address: '+addr);
+                      }
+                       });
+                   }
+            } else {
+                map = display_gmap_gmap(id, centerLatitude, centerLongitude, startZoom, description, kml, control, maptype, show_marker, addoverview, addscale, addgoogle, streetview);
+            }
+        }
+        
+        -->
+        </script>
+        <p></p>
+        <div id="gmap_gmap0" style="width: 100%; height: 480px;color: #000;"></div>
+        <script type="text/javascript">
+        <!--
+        
+        function load_gmap() {
+        init_gmap_gmap('0', '', 47.519402, -123.064338, 16, '', 'https://raw.githubusercontent.com/cmackay/hammaridge-lotmap/master/Hammaridge.kml?token=AAI7XJUAC5D3TZEYDQC73PK7IBNGY', '', '', 0, '1', '0', '1', '1');
+        
+        }
+        -->
+        </script>
+        
+        <script type="text/javascript">
+        <!--
+        load_gmap();
+        -->
+        </script>
+  </body>
+</html>
