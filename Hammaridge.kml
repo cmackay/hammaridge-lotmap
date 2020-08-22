@@ -596,22 +596,7 @@ Lilliwaup, WA 98555]]></description>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>323047590023</name>
-			<description><![CDATA[NEED INFO]]></description>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
-			<Polygon>
-				<tessellate>1</tessellate>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							123.06779614,47.520221 -123.06901977,47.52082854 -123.06876389,47.52156219 -123.06720763,47.52156505 -123.06727738,47.52066883 -123.06738252,47.5205957 -123.06748253,47.52051934 -123.0675952,47.52042389 -123.06769984,47.52032434 -123.06779614,47.520221
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
+		</Placemark>	
 		<Placemark>
 			<name>323047590042</name>
 			<description><![CDATA[Adam Cuppoletti<br>
