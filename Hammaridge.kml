@@ -581,6 +581,24 @@ Everett, WA 98208]]></description>
 		</Placemark>
 		<Placemark>
 			<name>323047590013</name>
+			<description><![CDATA[LUNDQUIST MICHAEL D<br>
+<br>
+PO Box 25<br>
+Lilliwaup, WA 98555]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-123.06779614,47.520221 -123.06785608,47.52014949 -123.06791203,47.52007651 -123.06814216,47.51976216 -123.06821474,47.5196687 -123.06829389,47.51957772 -123.0683794,47.51948942 -123.06929897,47.5200281 -123.06901977,47.52082854 -123.06779614,47.520221
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>323047590023</name>
 			<description><![CDATA[Jill & Chris Coulter<br>
 <br>
 PO Box 11<br>
@@ -591,7 +609,7 @@ Lilliwaup, WA 98555]]></description>
 				<outerBoundaryIs>
 					<LinearRing>
 						<coordinates>
-							-123.06779614,47.520221 -123.06785608,47.52014949 -123.06791203,47.52007651 -123.06814216,47.51976216 -123.06821474,47.5196687 -123.06829389,47.51957772 -123.0683794,47.51948942 -123.06929897,47.5200281 -123.06901977,47.52082854 -123.06779614,47.520221
+							-123.06779614,47.520221 -123.06901977,47.52082854 -123.06876389,47.52156219 -123.06720763,47.52156505 -123.06727738,47.52066883 -123.06738252,47.5205957 -123.06748253,47.52051934 -123.0675952,47.52042389 -123.06769984,47.52032434 -123.06779614,47.520221
 						</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
