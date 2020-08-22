@@ -740,14 +740,17 @@ Hoodsport, WA 98548]]></description>
 		</Placemark>
 		<Placemark>
 			<name>323047590040</name>
-			<description><![CDATA[needs boundary update]]></description>
+			<description><![CDATA[Matthew Kraft<br>
+<br>
+PO Box 24052<br>                         
+Federal Way, WA 98093]]></description>
 			<styleUrl>#m_ylw-pushpin0</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>
 				<outerBoundaryIs>
 					<LinearRing>
 						<coordinates>
-							-123.0693157712213,47.51773521404449,0 -123.0698353179853,47.51868079086821,0 -123.0705468972559,47.51839360501406,0 -123.0707300540547,47.5177309908993,0 -123.0693157712213,47.51773521404449,0 
+							-123.0683366,47.51799869 -123.06809395,47.51770792 -123.06930788,47.51769622 -123.06983324,47.51866572 -123.06934816,47.51886759 -123.0692429,47.51891331 -123.06914032,47.51896176 -123.0683366,47.51799869 
 						</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
@@ -773,7 +776,10 @@ St. Augustine, FL 32092]]></description>
 		</Placemark>
 		<Placemark>
 			<name>323047590011</name>
-			<description><![CDATA[needs boundary update]]></description>
+			<description><![CDATA[Misako & Jonathan Yoke<br>
+<br>
+PO Box 369<br>
+Lilliwaup, WA  98555]]></description>
 			<LookAt>
 				<longitude>-123.0689742042678</longitude>
 				<latitude>47.52053000095292</latitude>
@@ -797,7 +803,10 @@ St. Augustine, FL 32092]]></description>
 		</Placemark>
 		<Placemark>
 			<name>323047590010</name>
-			<description><![CDATA[needs boundary update]]></description>
+			<description><![CDATA[Lauren & Craig Aldinger<br>
+<br>
+5541 18th Ave. S<br>
+Seattle, WA  98108]]></description>
 			<LookAt>
 				<longitude>-123.0689742042678</longitude>
 				<latitude>47.52053000095292</latitude>
