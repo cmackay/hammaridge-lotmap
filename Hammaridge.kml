@@ -724,7 +724,7 @@ Hoodsport, WA 98548]]></description>
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>323047590040</name>
+			<name>323047590033</name>
 			<description><![CDATA[Matthew Kraft<br>
 <br>
 PO Box 24052<br>                         
@@ -736,6 +736,24 @@ Federal Way, WA 98093]]></description>
 					<LinearRing>
 						<coordinates>
 							-123.06930788,47.51769622 -123.07072414,47.51768255 -123.07052049,47.5183797 -123.06983324,47.51866572 -123.06930788,47.51769622 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>323047590040</name>
+			<description><![CDATA[Teresita & Eldin Baldonado<br>
+<br>
+7221 97th Ave SW<br>                                                
+Lakewood, WA 98498]]></description>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-123.0683366,47.51799869 -123.06809395,47.51770792 -123.06930788,47.51769622 -123.06983324,47.51866572 -123.06934816,47.51886759 -123.0692429,47.51891331 -123.06914032,47.51896176 -123.0683366,47.51799869 
 						</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
