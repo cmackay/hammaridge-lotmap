@@ -409,16 +409,24 @@ Lilliwaup, WA 98555]]></description>
 PO Box 329<br>
 Lilliwaup, WA 98555]]></description>
 			<styleUrl>#m_ylw-pushpin0</styleUrl>
-			<Polygon>
-				<tessellate>1</tessellate>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							-123.0654178318576,47.51869373988777,0 -123.0643439718737,47.51885122000953,0 -123.0612236610107,47.51926940817656,0 -123.061437468551,47.51936708250189,0 -123.0620330430299,47.51979216100419,0 -123.0660972471576,47.51901516897592,0 -123.0654178318576,47.51869373988777,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
+		      <Polygon>
+			<outerBoundaryIs>
+			  <LinearRing>
+			    <tessellate>1</tessellate>
+			    <coordinates>
+			      -123.065418,47.518694,0
+			      -123.065378,47.518334,0
+			      -123.064247,47.518345,0
+			      -123.064344,47.518851,0
+			      -123.061224,47.519269,0
+			      -123.061437,47.519367,0
+			      -123.062033,47.519792,0
+			      -123.066097,47.519015,0
+			      -123.065418,47.518694,0
+			    </coordinates>
+			  </LinearRing>
+			</outerBoundaryIs>
+		      </Polygon>
 		</Placemark>
 		<Placemark>
 			<name>#29 323047590064</name>
@@ -469,24 +477,6 @@ Puyallup, WA 98374]]></description>
 					<LinearRing>
 						<coordinates>
 							-123.0634145780851,47.51834925137227,0 -123.0635304664166,47.51895173362697,0 -123.0643366583395,47.5188448632677,0 -123.064246782112,47.5183453939733,0 -123.0634145780851,47.51834925137227,0 
-						</coordinates>
-					</LinearRing>
-				</outerBoundaryIs>
-			</Polygon>
-		</Placemark>
-		<Placemark>
-			<name>323047590065</name>
-			<description><![CDATA[Michael Hanson<br>
-<br>
-PO Box 329<br>
-Lilliwaup, WA 98555]]></description>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
-			<Polygon>
-				<tessellate>1</tessellate>
-				<outerBoundaryIs>
-					<LinearRing>
-						<coordinates>
-							-123.0642524017349,47.51834440225426,0 -123.0643486210207,47.51884498709596,0 -123.0654121589358,47.51868929460825,0 -123.0653787080484,47.51833880561785,0 -123.0642524017349,47.51834440225426,0 
 						</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
