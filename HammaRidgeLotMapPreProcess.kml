@@ -17,6 +17,16 @@
         <color>7f7fffaa</color>
       </PolyStyle>
     </Style>
+    <StyleMap id="m_ylw-pushpin">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#s_ylw-pushpin0</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#s_ylw-pushpin_hl</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="s_ylw-pushpin">
       <IconStyle>
         <scale>1.1</scale>
@@ -47,6 +57,16 @@
         <color>7f7fffaa</color>
       </PolyStyle>
     </Style>
+    <StyleMap id="m_ylw-pushpin0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#s_ylw-pushpin</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="s_ylw-pushpin_hl0">
       <IconStyle>
         <scale>1.3</scale>
@@ -62,32 +82,9 @@
         <color>7f7fffaa</color>
       </PolyStyle>
     </Style>
-    <StyleMap id="m_ylw-pushpin">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#s_ylw-pushpin0</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#s_ylw-pushpin_hl</styleUrl>
-      </Pair>
-    </StyleMap>
-    <StyleMap id="m_ylw-pushpin0">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#s_ylw-pushpin</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#s_ylw-pushpin_hl0</styleUrl>
-      </Pair>
-    </StyleMap>
     <Placemark>
-      <name>#32 323047590062</name>
-      <description><![CDATA[John Birrer &amp; Paul Marcus<br>
-<br>
-1215 Warren Ave North<br>
-Seattle, WA 98109]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 8577<br>PIN: 323047590062<br>Taxlot: 7590062<br>Map_number: 32304<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 4<br>QTR: A<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: UrbanGrowth<br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-90062<br>Shape_area: 167246.733648<br>Shape_len: 1960.71674579<br>Rowid_: 46304<br>OBJECTID: 0<br>PIN_1: 323047590062<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 97650<br>ASSESS_VAL: 97650<br>MARKET_LV: 95150<br>MARKET_BV: 2500<br>ASSESS_LV: 95150<br>ASSESS_BV: 2500<br>TAX_VALUE: 97650<br>DISTRICT: 0311<br>LANDUSE: 91 - Undeveloped - Land<br>LANDUSE_2: 15<br>TOT_ACRES: 3.84<br>LAST_NAME: BIRRER  ET VIR<br>FIRST_NAME: JOHN A<br>ADDRESS_1: PAUL MARCUS<br>ADDRESS_2: 1215 WARREN AVE NORTH<br>CITY: SEATTLE<br>STATE: WA<br>ZIP: 98109<br>SITUS_ADDR: <br>LEGAL_DESC: LOT: C OF SP #1913  PTN TR 6-C S 13/237<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -251,11 +248,8 @@ Seattle, WA 98109]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>323047590066</name>
-      <description><![CDATA[Don &amp; Zhaleh Feizollahi<br>
-<br>
-2463 Muller Place<br>
-Woodland, CA 95776]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 8578<br>PIN: 323047590066<br>Taxlot: 7590066<br>Map_number: 32304<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 4<br>QTR: A<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: UrbanGrowth<br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-90066<br>Shape_area: 67220.5692174<br>Shape_len: 1255.40613134<br>Rowid_: 47423<br>OBJECTID: 0<br>PIN_1: 323047590066<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 32090<br>ASSESS_VAL: 32090<br>MARKET_LV: 32090<br>MARKET_BV: 0<br>ASSESS_LV: 32090<br>ASSESS_BV: 0<br>TAX_VALUE: 32090<br>DISTRICT: 0312<br>LANDUSE: 91 - Undeveloped - Land<br>LANDUSE_2: 15<br>TOT_ACRES: 1.54<br>LAST_NAME: FEIZOLLAHI<br>FIRST_NAME: FEREIDUN &amp; ZHALEH<br>ADDRESS_1: 2463 MULLER PL<br>ADDRESS_2: <br>CITY: WOODLAND<br>STATE: CA<br>ZIP: 95776<br>SITUS_ADDR: <br>LEGAL_DESC: LOT: 2 OF SP #2972  PTN TR 6-D S 13/237<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -416,11 +410,8 @@ Woodland, CA 95776]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>323047590044</name>
-      <description><![CDATA[Thomas &amp; Hailee Noble<br>
-<br>
-835 N Hamma Ridge Dr<br>
-Lilliwaup, WA 98555]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 8581<br>PIN: 323047590044<br>Taxlot: 7590044<br>Map_number: 32304<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 4<br>QTR: A<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: UrbanGrowth<br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-90044<br>Shape_area: 71172.0615471<br>Shape_len: 1070.90704465<br>Rowid_: 33327<br>OBJECTID: 0<br>PIN_1: 323047590044<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 32530<br>ASSESS_VAL: 32530<br>MARKET_LV: 32530<br>MARKET_BV: 0<br>ASSESS_LV: 32530<br>ASSESS_BV: 0<br>TAX_VALUE: 32530<br>DISTRICT: 0312<br>LANDUSE: 91 - Undeveloped - Land<br>LANDUSE_2: 15<br>TOT_ACRES: 1.63<br>LAST_NAME: NOBLE<br>FIRST_NAME: THOMAS &amp; HAILEE<br>ADDRESS_1: P O BOX 129<br>ADDRESS_2: <br>CITY: LONG BEACH<br>STATE: WA<br>ZIP: 98631<br>SITUS_ADDR: <br>LEGAL_DESC: LOT: 2 OF SP #2888  PTN TR 4-D S 13/237   PENDING DPC # 23-10 AF# 2200133<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -583,11 +574,8 @@ Lilliwaup, WA 98555]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#42 323047590032</name>
-      <description><![CDATA[Brian Snyder<br>
-<br>
-466 Glass Rd.<br>
-Port Angeles, WA. 98362]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 8583<br>PIN: 323047590032<br>Taxlot: 7590032<br>Map_number: 32304<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 4<br>QTR: A<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: UrbanGrowth<br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-90032<br>Shape_area: 102373.48381<br>Shape_len: 1291.77081568<br>Rowid_: 44515<br>OBJECTID: 0<br>PIN_1: 323047590032<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 75740<br>ASSESS_VAL: 75740<br>MARKET_LV: 75740<br>MARKET_BV: 0<br>ASSESS_LV: 75740<br>ASSESS_BV: 0<br>TAX_VALUE: 75740<br>DISTRICT: 0312<br>LANDUSE: 91 - Undeveloped - Land<br>LANDUSE_2: 15<br>TOT_ACRES: 2.35<br>LAST_NAME: GENESIS TRUST<br>FIRST_NAME: <br>ADDRESS_1: BRIAN NOBLE SNYDER TRUSTEE<br>ADDRESS_2: 466 GLASS RD<br>CITY: PORT ANGELES<br>STATE: WA<br>ZIP: 98362<br>SITUS_ADDR: <br>LEGAL_DESC: LOT: C OF SP #1910  PTN TR 3-C S 13/237<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -748,11 +736,8 @@ Port Angeles, WA. 98362]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#41 323047590033</name>
-      <description><![CDATA[Edward &amp; Pamela Yeomans<br>
-<br>
-420 Hidden Hills Ln<br>                         
-Escondido, CA 92029]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 8584<br>PIN: 323047590033<br>Taxlot: 7590033<br>Map_number: 32304<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 4<br>QTR: A<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: UrbanGrowth<br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-90033<br>Shape_area: 81179.4179808<br>Shape_len: 1185.30779194<br>Rowid_: 25618<br>OBJECTID: 0<br>PIN_1: 323047590033<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 121440<br>ASSESS_VAL: 121440<br>MARKET_LV: 118940<br>MARKET_BV: 2500<br>ASSESS_LV: 118940<br>ASSESS_BV: 2500<br>TAX_VALUE: 121440<br>DISTRICT: 0311<br>LANDUSE: 91 - Undeveloped - Land<br>LANDUSE_2: 15<br>TOT_ACRES: 1.86<br>LAST_NAME: YEOMANS FAMILY TRUST<br>FIRST_NAME: <br>ADDRESS_1: 420 HIDDEN HILLS LN<br>ADDRESS_2: <br>CITY: ESCONDIDO<br>STATE: CA<br>ZIP: 92029<br>SITUS_ADDR: 951 N HAMMA RIDGE DR, LILLIWAUP 98555<br>LEGAL_DESC: LOT: D OF SP #1910 AF #499779       PTN OF GOVT LOT 2       S 13/237<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -913,11 +898,8 @@ Escondido, CA 92029]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>323047590063</name>
-      <description><![CDATA[Don &amp; Zhaleh Feizollahi<br>
-<br>
-2463 Muller Place<br>
-Woodland, CA 95776]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 8586<br>PIN: 323047590063<br>Taxlot: 7590063<br>Map_number: 32304<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 4<br>QTR: A<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: UrbanGrowth<br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-90063<br>Shape_area: 43551.3021636<br>Shape_len: 955.291004192<br>Rowid_: 18639<br>OBJECTID: 0<br>PIN_1: 323047590063<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 53430<br>ASSESS_VAL: 53430<br>MARKET_LV: 50930<br>MARKET_BV: 2500<br>ASSESS_LV: 50930<br>ASSESS_BV: 2500<br>TAX_VALUE: 53430<br>DISTRICT: 0311<br>LANDUSE: 91 - Undeveloped - Land<br>LANDUSE_2: 10<br>TOT_ACRES: 1<br>LAST_NAME: FEIZOLLAHI<br>FIRST_NAME: FEREIDUN &amp; ZHALEH<br>ADDRESS_1: 2463 MULLER PL<br>ADDRESS_2: <br>CITY: WOODLAND<br>STATE: CA<br>ZIP: 95776<br>SITUS_ADDR: <br>LEGAL_DESC: LOT: 1 OF SP #2972  PTN TR 6-D S 13/237<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -1079,11 +1061,8 @@ Woodland, CA 95776]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#29 323047590064</name>
-      <description><![CDATA[James &amp; Joy Sauer<br>
-<br>
-18313 118th Ave Ct E<br>
-Puyallup, WA 98374]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 8588<br>PIN: 323047590064<br>Taxlot: 7590064<br>Map_number: 32304<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 4<br>QTR: A<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: UrbanGrowth<br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-90064<br>Shape_area: 43555.167086<br>Shape_len: 836.860550553<br>Rowid_: 37382<br>OBJECTID: 0<br>PIN_1: 323047590064<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 107160<br>ASSESS_VAL: 107160<br>MARKET_LV: 104660<br>MARKET_BV: 2500<br>ASSESS_LV: 104660<br>ASSESS_BV: 2500<br>TAX_VALUE: 107160<br>DISTRICT: 0311<br>LANDUSE: 91 - Undeveloped - Land<br>LANDUSE_2: 15<br>TOT_ACRES: 1<br>LAST_NAME: SAUER<br>FIRST_NAME: JAMES R &amp; JOY A<br>ADDRESS_1: 18313 118TH AVE CT E<br>ADDRESS_2: <br>CITY: PUYALLUP<br>STATE: WA<br>ZIP: 98374-9165<br>SITUS_ADDR: <br>LEGAL_DESC: LOT: 2 OF SP #2874  PTN TR 6-B S 13/237<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -1244,11 +1223,8 @@ Puyallup, WA 98374]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>323047590043</name>
-      <description><![CDATA[Thomas &amp; Hailee Noble<br>
-<br>
-835 N Hamma Ridge Dr<br>
-Lilliwaup, WA 98555]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 8595<br>PIN: 323047590043<br>Taxlot: 7590043<br>Map_number: 32304<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 4<br>QTR: A<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: UrbanGrowth<br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-90043<br>Shape_area: 70054.731264<br>Shape_len: 1085.77526797<br>Rowid_: 16002<br>OBJECTID: 0<br>PIN_1: 323047590043<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 48435<br>ASSESS_VAL: 48435<br>MARKET_LV: 32435<br>MARKET_BV: 16000<br>ASSESS_LV: 32435<br>ASSESS_BV: 16000<br>TAX_VALUE: 48435<br>DISTRICT: 0311<br>LANDUSE: 11 - Residential - Single Family<br>LANDUSE_2: <br>TOT_ACRES: 1.61<br>LAST_NAME: NOBLE<br>FIRST_NAME: THOMAS &amp; HAILEE<br>ADDRESS_1: P O BOX 129<br>ADDRESS_2: <br>CITY: LONG BEACH<br>STATE: WA<br>ZIP: 98631<br>SITUS_ADDR: 835 N HAMMA RIDGE DR, LILLIWAUP 98555<br>LEGAL_DESC: LOT: 1 OF SP #2888 PTN TR 4-D S 13/237 PENDING DPC # 23-10 AF# 2200133<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -1411,11 +1387,8 @@ Lilliwaup, WA 98555]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#29 323047590061</name>
-      <description><![CDATA[James &amp; Joy Sauer<br>
-<br>
-18313 118th Ave Ct E<br>
-Puyallup, WA 98374]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 8597<br>PIN: 323047590061<br>Taxlot: 7590061<br>Map_number: 32304<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 4<br>QTR: A<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: UrbanGrowth<br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-90061<br>Shape_area: 120212.741125<br>Shape_len: 1544.24539188<br>Rowid_: 2616<br>OBJECTID: 0<br>PIN_1: 323047590061<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 131515<br>ASSESS_VAL: 131515<br>MARKET_LV: 129015<br>MARKET_BV: 2500<br>ASSESS_LV: 129015<br>ASSESS_BV: 2500<br>TAX_VALUE: 131515<br>DISTRICT: 0311<br>LANDUSE: 91 - Undeveloped - Land<br>LANDUSE_2: 15<br>TOT_ACRES: 2.76<br>LAST_NAME: SAUER<br>FIRST_NAME: JAMES R &amp; JOY A<br>ADDRESS_1: 18313 118TH AVE CT E<br>ADDRESS_2: <br>CITY: PUYALLUP<br>STATE: WA<br>ZIP: 98374-9165<br>SITUS_ADDR: <br>LEGAL_DESC: LOT: 1 OF SP #2874  PTN TR 6-B S 13/237<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -1577,10 +1550,8 @@ Puyallup, WA 98374]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#43 323047590031</name>
-      <description><![CDATA[Hannah Jette<br>
-<br>800 W Nickerson St Apt D<br>
-Seattle, WA 98119]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 8604<br>PIN: 323047590031<br>Taxlot: 7590031<br>Map_number: 32304<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 4<br>QTR: A<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: UrbanGrowth<br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-90031<br>Shape_area: 158864.173442<br>Shape_len: 1601.31767901<br>Rowid_: 9926<br>OBJECTID: 0<br>PIN_1: 323047590031<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 95430<br>ASSESS_VAL: 95430<br>MARKET_LV: 92930<br>MARKET_BV: 2500<br>ASSESS_LV: 92930<br>ASSESS_BV: 2500<br>TAX_VALUE: 95430<br>DISTRICT: 0311<br>LANDUSE: 91 - Undeveloped - Land<br>LANDUSE_2: 15<br>TOT_ACRES: 3.65<br>LAST_NAME: JETTE<br>FIRST_NAME: HANNAH<br>ADDRESS_1: 800 W NICKERSON ST APT D<br>ADDRESS_2: <br>CITY: SEATTLE<br>STATE: WA<br>ZIP: 98119<br>SITUS_ADDR: <br>LEGAL_DESC: LOT: B OF SP #1910  PTN TR 3-B S 13/237<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -1744,11 +1715,8 @@ Seattle, WA 98119]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#11 323041190502</name>
-      <description><![CDATA[Stephen &amp; Patty Marksteiner<br>
-<br>
-PO Box 127<br>
-Lilliwaup, WA 98555]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 8607<br>PIN: 323041190502<br>Taxlot: 1190502<br>Map_number: 32304<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 4<br>QTR: A<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: UrbanGrowth<br>SEG_NUMBER: <br>TERRA_PIN: 32304-11-90502<br>Shape_area: 55827.4769257<br>Shape_len: 979.728804687<br>Rowid_: 52060<br>OBJECTID: 0<br>PIN_1: 323041190502<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 728240<br>ASSESS_VAL: 728240<br>MARKET_LV: 110120<br>MARKET_BV: 618120<br>ASSESS_LV: 110120<br>ASSESS_BV: 618120<br>TAX_VALUE: 728240<br>DISTRICT: 0311<br>LANDUSE: 11 - Residential - Single Family<br>LANDUSE_2: 83<br>TOT_ACRES: 1.28<br>LAST_NAME: MARKSTEINER<br>FIRST_NAME: STEPHEN J &amp; PATRICIA N<br>ADDRESS_1: PO BOX 127<br>ADDRESS_2: <br>CITY: LILLIWAUP<br>STATE: WA<br>ZIP: 98555<br>SITUS_ADDR: 830 N HAMMA RIDGE DR, LILLIWAUP 98555<br>LEGAL_DESC: LOT 2 OF SP #2887    PTN TR 5-A S 13/237<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -1909,11 +1877,8 @@ Lilliwaup, WA 98555]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#20 323047590105</name>
-      <description><![CDATA[Ion &amp; Heather Jones<br>
-<br>
-3312 NE 76TH Ave<br>
-Portland, OR 97213]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 8608<br>PIN: 323047590105<br>Taxlot: 7590105<br>Map_number: 32303<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 3<br>QTR: B<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: Urban<br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-90105<br>Shape_area: 98728.0122691<br>Shape_len: 1390.99257571<br>Rowid_: 46859<br>OBJECTID: 0<br>PIN_1: 323047590105<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 85380<br>ASSESS_VAL: 85380<br>MARKET_LV: 74380<br>MARKET_BV: 11000<br>ASSESS_LV: 74380<br>ASSESS_BV: 11000<br>TAX_VALUE: 85380<br>DISTRICT: 0311<br>LANDUSE: 91 - Undeveloped - Land<br>LANDUSE_2: 15<br>TOT_ACRES: 2.26<br>LAST_NAME: JONES<br>FIRST_NAME: ION J &amp; HEATHER A<br>ADDRESS_1: 3312 NE 76TH AVE<br>ADDRESS_2: <br>CITY: PORTLAND<br>STATE: OR<br>ZIP: 97213<br>SITUS_ADDR: 91 N HAMMA VISTA, LILLIWAUP 98555<br>LEGAL_DESC: LOT: 3 SP #2869  PTN TRS 10-C,D S 13/237<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -2075,11 +2040,8 @@ Portland, OR 97213]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#13 323041190532</name>
-      <description><![CDATA[Kim &amp; Jae Young Kim<br>
-<br>
-5901 66th Ave. West<br>
-University Place, WA 98467]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 8609<br>PIN: 323041190532<br>Taxlot: 1190532<br>Map_number: 32304<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 4<br>QTR: A<br>QTRQTR: <br>AFN: 645726<br>WhoCreated: ESU<br>MapAccurac: UrbanGrowth<br>SEG_NUMBER: <br>TERRA_PIN: 32304-11-90532<br>Shape_area: 60488.319402<br>Shape_len: 1135.11304063<br>Rowid_: 31569<br>OBJECTID: 0<br>PIN_1: 323041190532<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 114510<br>ASSESS_VAL: 114510<br>MARKET_LV: 112010<br>MARKET_BV: 2500<br>ASSESS_LV: 112010<br>ASSESS_BV: 2500<br>TAX_VALUE: 114510<br>DISTRICT: 0311<br>LANDUSE: 91 - Undeveloped - Land<br>LANDUSE_2: 10<br>TOT_ACRES: 1.39<br>LAST_NAME: KIM<br>FIRST_NAME: YOUN &amp; JAE<br>ADDRESS_1: 5901 - 66TH AVE W<br>ADDRESS_2: <br>CITY: UNIVERSITY PLACE<br>STATE: WA<br>ZIP: 984674930<br>SITUS_ADDR: <br>LEGAL_DESC: LOT: 2 OF SP #2872   PTN TR 5-D S 13/237<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -2242,11 +2204,8 @@ University Place, WA 98467]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#1 323047590012</name>
-      <description><![CDATA[James &amp; Marilyn Kromwall<br>
-<br>
-PO Box 358<br>
-Lilliwaup, WA 98555]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 8611<br>PIN: 323047590012<br>Taxlot: 7590012<br>Map_number: 32304<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 4<br>QTR: A<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: UrbanGrowth<br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-90012<br>Shape_area: 145496.339357<br>Shape_len: 1621.77827453<br>Rowid_: 35317<br>OBJECTID: 0<br>PIN_1: 323047590012<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 696505<br>ASSESS_VAL: 696505<br>MARKET_LV: 89175<br>MARKET_BV: 607330<br>ASSESS_LV: 89175<br>ASSESS_BV: 607330<br>TAX_VALUE: 696505<br>DISTRICT: 0311<br>LANDUSE: 19 - Residential - Vacation and Cabin<br>LANDUSE_2: 82<br>TOT_ACRES: 3.34<br>LAST_NAME: KROMWALL<br>FIRST_NAME: JAMES &amp; MARILYN<br>ADDRESS_1: PO BOX 358<br>ADDRESS_2: <br>CITY: LILLIWAUP<br>STATE: WA<br>ZIP: 98555<br>SITUS_ADDR: 131 N HAMMA RIDGE LN, LILLIWAUP 98555<br>LEGAL_DESC: LOT: C OF SP #1909  PTN TR 1-C S 13/237<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -2409,11 +2368,8 @@ Lilliwaup, WA 98555]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#2 323047590010</name>
-      <description><![CDATA[Craig &amp; Lauren Aldinger<br>
-<br>
-5901 London Rd.<br>
-Duluth, MN 55804]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 8617<br>PIN: 323047590010<br>Taxlot: 7590010<br>Map_number: 32304<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 4<br>QTR: A<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: UrbanGrowth<br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-90010<br>Shape_area: 189689.741201<br>Shape_len: 1847.987163<br>Rowid_: 162<br>OBJECTID: 0<br>PIN_1: 323047590010<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 299145<br>ASSESS_VAL: 299145<br>MARKET_LV: 141765<br>MARKET_BV: 157380<br>ASSESS_LV: 141765<br>ASSESS_BV: 157380<br>TAX_VALUE: 299145<br>DISTRICT: 0311<br>LANDUSE: 18 - Residential - All other<br>LANDUSE_2: 01<br>TOT_ACRES: 4.36<br>LAST_NAME: ALDINGER<br>FIRST_NAME: LAUREN M &amp; CRAIG R<br>ADDRESS_1: PO BOX 98<br>ADDRESS_2: <br>CITY: LILLIWAUP<br>STATE: WA<br>ZIP: 98555<br>SITUS_ADDR: 161 N HAMMA RIDGE LN, LILLIWAUP 98555<br>LEGAL_DESC: LOT: A OF SP #1909  PTN TR 1-A S 13/237<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -2576,11 +2532,8 @@ Duluth, MN 55804]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#14 323041190531</name>
-      <description><![CDATA[Mark &amp; Tara Barich<br>
-<br>
-800 N. Hamma Ridge Dr.<br> 
-Lilliwaup, WA 98555]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 24981<br>PIN: 323041190531<br>Taxlot: 1190531<br>Map_number: 32304<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 4<br>QTR: A<br>QTRQTR: <br>AFN: 645726<br>WhoCreated: ESU<br>MapAccurac: <br>SEG_NUMBER: <br>TERRA_PIN: 32304-11-90531<br>Shape_area: 123273.940211<br>Shape_len: 1667.26337531<br>Rowid_: 48939<br>OBJECTID: 0<br>PIN_1: 323041190531<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 981360<br>ASSESS_VAL: 981360<br>MARKET_LV: 129680<br>MARKET_BV: 851680<br>ASSESS_LV: 129680<br>ASSESS_BV: 851680<br>TAX_VALUE: 981360<br>DISTRICT: 0311<br>LANDUSE: 19 - Residential - Vacation and Cabin<br>LANDUSE_2: 82<br>TOT_ACRES: 2.83<br>LAST_NAME: BARICH<br>FIRST_NAME: MARK B &amp; TARA L<br>ADDRESS_1: PO BOX 330<br>ADDRESS_2: <br>CITY: LILLIWAUP<br>STATE: WA<br>ZIP: 98555<br>SITUS_ADDR: 800 N HAMMA RIDGE DR, LILLIWAUP 98555<br>LEGAL_DESC: LOT: 1 OF SP #2872   PTN TR 5-D S 13/237    S 45/189<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -2741,11 +2694,8 @@ Lilliwaup, WA 98555]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#3 323047590011</name>
-      <description><![CDATA[Jonathan &amp; Misako Yoke<br>
-<br>
-PO Box 369<br>
-Lilliwaup, WA  98555]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 33627<br>PIN: 323047590011<br>Taxlot: 7590011<br>Map_number: 32304<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 4<br>QTR: A<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: UrbanGrowth<br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-90011<br>Shape_area: 206179.787251<br>Shape_len: 1916.12440094<br>Rowid_: 22333<br>OBJECTID: 0<br>PIN_1: 323047590011<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 644545<br>ASSESS_VAL: 644545<br>MARKET_LV: 115330<br>MARKET_BV: 529215<br>ASSESS_LV: 115330<br>ASSESS_BV: 529215<br>TAX_VALUE: 644545<br>DISTRICT: 0311<br>LANDUSE: 19 - Residential - Vacation and Cabin<br>LANDUSE_2: 83<br>TOT_ACRES: 4.73<br>LAST_NAME: YOKE<br>FIRST_NAME: JONATHAN D &amp; MISAKO<br>ADDRESS_1: PO BOX 369<br>ADDRESS_2: <br>CITY: LILLIWAUP<br>STATE: WA<br>ZIP: 985550369<br>SITUS_ADDR: 140 N HAMMA RIDGE LN, LILLIWAUP 98555<br>LEGAL_DESC: PCL 1 OF BLA #01-54  PTN TR 1-B S 13/237    , S 47/107<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -2909,11 +2859,8 @@ Lilliwaup, WA  98555]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#40 323047590040</name>
-      <description><![CDATA[Eldin &amp; Teresita Baldonado<br>
-<br>
-7221 97th Ave SW<br>                                                
-Lakewood, WA 98498]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 35396<br>PIN: 323047590040<br>Taxlot: 7590040<br>Map_number: 32304<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 4<br>QTR: A<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: UrbanGrowth<br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-90040<br>Shape_area: 106257.081649<br>Shape_len: 1404.64039921<br>Rowid_: 48588<br>OBJECTID: 0<br>PIN_1: 323047590040<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 125780<br>ASSESS_VAL: 125780<br>MARKET_LV: 125780<br>MARKET_BV: 0<br>ASSESS_LV: 125780<br>ASSESS_BV: 0<br>TAX_VALUE: 125780<br>DISTRICT: 0312<br>LANDUSE: 91 - Undeveloped - Land<br>LANDUSE_2: 15<br>TOT_ACRES: 2.44<br>LAST_NAME: BALDONADO<br>FIRST_NAME: EDLIN &amp; TERESITA<br>ADDRESS_1: 9012 116TH ST SW<br>ADDRESS_2: <br>CITY: LAKEWOOD<br>STATE: WA<br>ZIP: 98498<br>SITUS_ADDR: 911 N HAMMA RIDGE DR, LILLIWAUP 98555<br>LEGAL_DESC: LOT: A OF SP #1911  PTN TR 4-A S 13/237<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -3078,11 +3025,8 @@ Lakewood, WA 98498]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>323047590041</name>
-      <description><![CDATA[Patricia Lewallen<br>
-<br>
-PO Box 1353<br>
-Hoodsport, WA 98548]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 35397<br>PIN: 323047590041<br>Taxlot: 7590041<br>Map_number: 32304<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 4<br>QTR: A<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: UrbanGrowth<br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-90041<br>Shape_area: 92289.8679727<br>Shape_len: 1271.75469875<br>Rowid_: 28679<br>OBJECTID: 0<br>PIN_1: 323047590041<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 124690<br>ASSESS_VAL: 124690<br>MARKET_LV: 122190<br>MARKET_BV: 2500<br>ASSESS_LV: 122190<br>ASSESS_BV: 2500<br>TAX_VALUE: 124690<br>DISTRICT: 0311<br>LANDUSE: 91 - Undeveloped - Land<br>LANDUSE_2: 15<br>TOT_ACRES: 2.12<br>LAST_NAME: LEWALLEN<br>FIRST_NAME: PATRICIA K<br>ADDRESS_1: P O BOX 1353<br>ADDRESS_2: <br>CITY: HOODSPORT<br>STATE: WA<br>ZIP: 985481353<br>SITUS_ADDR: <br>LEGAL_DESC: LOT: B OF SP #1911  PTN TR 4-B S 13/237<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -3246,11 +3190,8 @@ Hoodsport, WA 98548]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>323047590042</name>
-      <description><![CDATA[Adam Cuppoletti<br>
-<br>
-1024 Country Club Drive<br>
-Petaluma, CA 94952]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 35399<br>PIN: 323047590042<br>Taxlot: 7590042<br>Map_number: 32304<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 4<br>QTR: A<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: UrbanGrowth<br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-90042<br>Shape_area: 118123.507201<br>Shape_len: 1424.77076526<br>Rowid_: 314<br>OBJECTID: 0<br>PIN_1: 323047590042<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 790460<br>ASSESS_VAL: 790460<br>MARKET_LV: 80925<br>MARKET_BV: 709535<br>ASSESS_LV: 80925<br>ASSESS_BV: 709535<br>TAX_VALUE: 790460<br>DISTRICT: 0311<br>LANDUSE: 19 - Residential - Vacation and Cabin<br>LANDUSE_2: 82<br>TOT_ACRES: 2.71<br>LAST_NAME: CUPPOLETTI<br>FIRST_NAME: ADAM S<br>ADDRESS_1: 1024 COUNTRY CLUB DR<br>ADDRESS_2: <br>CITY: PETALUMA<br>STATE: CA<br>ZIP: 94952<br>SITUS_ADDR: 811 N HAMMA RIDGE DR, LILLIWAUP 98555<br>LEGAL_DESC: LOT: C OF SP #1911  PTN TR 4-C S 13/237<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -3419,11 +3360,8 @@ Petaluma, CA 94952]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#4 323047590030</name>
-      <description><![CDATA[Carl &amp; Cristie Taylor<br>
-<br>
-283 River Forest Lane<br>
-St. Augustine, FL 32092]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 35400<br>PIN: 323047590030<br>Taxlot: 7590030<br>Map_number: 32304<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 4<br>QTR: A<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: UrbanGrowth<br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-90030<br>Shape_area: 142848.60689<br>Shape_len: 1508.40782128<br>Rowid_: 40386<br>OBJECTID: 0<br>PIN_1: 323047590030<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 144685<br>ASSESS_VAL: 144685<br>MARKET_LV: 133685<br>MARKET_BV: 11000<br>ASSESS_LV: 133685<br>ASSESS_BV: 11000<br>TAX_VALUE: 144685<br>DISTRICT: 0311<br>LANDUSE: 91 - Undeveloped - Land<br>LANDUSE_2: 15<br>TOT_ACRES: 3.28<br>LAST_NAME: TAYLOR<br>FIRST_NAME: CARL &amp; CRISTIE<br>ADDRESS_1: 283 RIVER FOREST LANE<br>ADDRESS_2: <br>CITY: ST AUGUSTINE<br>STATE: FL<br>ZIP: 32092<br>SITUS_ADDR: 901 N HAMMA RIDGE DR, LILLIWAUP 98555<br>LEGAL_DESC: LOT: A OF SP #1910  PTN TR 3-A S 13/237<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -3596,11 +3534,8 @@ St. Augustine, FL 32092]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#9 323041190501</name>
-      <description><![CDATA[Craig &amp; Nicole MacKay<br>
-<br>
-PO Box 29<br>
-Lilliwaup, WA 985555]]></description>
+      <name/>
+      <description><![CDATA[description: test<br>FID: 35401<br>PIN: 323041190501<br>Taxlot: 1190501<br>Map_number: 32304<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 4<br>QTR: A<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: UrbanGrowth<br>SEG_NUMBER: <br>TERRA_PIN: 32304-11-90501<br>Shape_area: 82429.7063574<br>Shape_len: 1154.25225216<br>Rowid_: 3342<br>OBJECTID: 0<br>PIN_1: 323041190501<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 212730<br>ASSESS_VAL: 212730<br>MARKET_LV: 68455<br>MARKET_BV: 144275<br>ASSESS_LV: 68455<br>ASSESS_BV: 144275<br>TAX_VALUE: 212730<br>DISTRICT: 0311<br>LANDUSE: 19 - Residential - Vacation and Cabin<br>LANDUSE_2: 81<br>TOT_ACRES: 1.89<br>LAST_NAME: MACKAY<br>FIRST_NAME: CRAIG<br>ADDRESS_1: PO BOX 29<br>ADDRESS_2: <br>CITY: LILLIWAUP<br>STATE: WA<br>ZIP: 98555<br>SITUS_ADDR: 890 N HAMMA RIDGE DR, LILLIWAUP 98555<br>LEGAL_DESC: LOT 1 OF SP #2887 PTN TR 5-A S 13/237 , S 48/22<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -3768,11 +3703,8 @@ Lilliwaup, WA 985555]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#5 323047590013</name>
-      <description><![CDATA[Michael Lundquist<br>
-<br>
-PO Box 25<br>
-Lilliwaup, WA 98555]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 35402<br>PIN: 323047590013<br>Taxlot: 7590013<br>Map_number: 32304<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 4<br>QTR: A<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: UrbanGrowth<br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-90013<br>Shape_area: 96905.9373866<br>Shape_len: 1278.8870529<br>Rowid_: 14004<br>OBJECTID: 0<br>PIN_1: 323047590013<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 412520<br>ASSESS_VAL: 412520<br>MARKET_LV: 73765<br>MARKET_BV: 338755<br>ASSESS_LV: 73765<br>ASSESS_BV: 338755<br>TAX_VALUE: 191375<br>DISTRICT: 0311<br>LANDUSE: 19 - Residential - Vacation and Cabin<br>LANDUSE_2: 82<br>TOT_ACRES: 2.22<br>LAST_NAME: LUNDQUIST<br>FIRST_NAME: MICHAEL       D<br>ADDRESS_1: PO BOX  25<br>ADDRESS_2: <br>CITY: LILLIWAUP<br>STATE: WA<br>ZIP: 985550025<br>SITUS_ADDR: 11 N HAMMA RIDGE CT, LILLIWAUP 98555<br>LEGAL_DESC: LOT: D OF SP #1909  PTN TR 1-D S 13/237<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -3938,11 +3870,8 @@ Lilliwaup, WA 98555]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#10 323047590051</name>
-      <description><![CDATA[Earnest Lockett<br>
-<br>
-PO Box 254<br>
-Lilliwaup, WA 98555]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 35404<br>PIN: 323047590051<br>Taxlot: 7590051<br>Map_number: 32304<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 4<br>QTR: A<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: UrbanGrowth<br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-90051<br>Shape_area: 158350.793981<br>Shape_len: 1623.34376869<br>Rowid_: 27686<br>OBJECTID: 0<br>PIN_1: 323047590051<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 517680<br>ASSESS_VAL: 517680<br>MARKET_LV: 136585<br>MARKET_BV: 381095<br>ASSESS_LV: 136585<br>ASSESS_BV: 381095<br>TAX_VALUE: 517680<br>DISTRICT: 0311<br>LANDUSE: 19 - Residential - Vacation and Cabin<br>LANDUSE_2: 81<br>TOT_ACRES: 3.64<br>LAST_NAME: LOCKETT<br>FIRST_NAME: EARNEST       L<br>ADDRESS_1: PO BOX 254<br>ADDRESS_2: <br>CITY: LILLIWAUP<br>STATE: WA<br>ZIP: 98555<br>SITUS_ADDR: 50 N HAMMA RIDGE CT, LILLIWAUP 98555<br>LEGAL_DESC: LOT: B OF SP #1912  PTN TR 5-B S 13/237<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -4117,11 +4046,8 @@ Lilliwaup, WA 98555]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#8 323047590021</name>
-      <description><![CDATA[Paul Leach<br>
-8721 Shadow Wood Dr<br>
-Unit A<br>
-Everett, WA 98208]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 35405<br>PIN: 323047590021<br>Taxlot: 7590021<br>Map_number: 32304<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 4<br>QTR: A<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: UrbanGrowth<br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-90021<br>Shape_area: 96158.0349775<br>Shape_len: 1661.1927685<br>Rowid_: 29543<br>OBJECTID: 0<br>PIN_1: 323047590021<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 75955<br>ASSESS_VAL: 75955<br>MARKET_LV: 73455<br>MARKET_BV: 2500<br>ASSESS_LV: 73455<br>ASSESS_BV: 2500<br>TAX_VALUE: 75955<br>DISTRICT: 0311<br>LANDUSE: 91 - Undeveloped - Land<br>LANDUSE_2: 15<br>TOT_ACRES: 2.2<br>LAST_NAME: LEACH<br>FIRST_NAME: PAUL          L<br>ADDRESS_1: 18210 CHAMPIONS DR<br>ADDRESS_2: <br>CITY: ARLINGTON<br>STATE: WA<br>ZIP: 98223-5078<br>SITUS_ADDR: <br>LEGAL_DESC: LOT: 1 OF SP #2417          S 13/237        S 33/28   , S 48/105<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -4296,11 +4222,8 @@ Everett, WA 98208]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#27 323047590084</name>
-      <description><![CDATA[William &amp; Carol Gaynor<br>
-<br>
-5742 NW Skyline Blvd.<br>
-Portland, OR 97229]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 46173<br>PIN: 323047590084<br>Taxlot: 7590084<br>Map_number: 32304<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 4<br>QTR: A<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: UrbanGrowth<br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-90084<br>Shape_area: 65004.6953292<br>Shape_len: 1082.09242177<br>Rowid_: 43135<br>OBJECTID: 0<br>PIN_1: 323047590084<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 460330<br>ASSESS_VAL: 460330<br>MARKET_LV: 113625<br>MARKET_BV: 346705<br>ASSESS_LV: 113625<br>ASSESS_BV: 346705<br>TAX_VALUE: 460330<br>DISTRICT: 0311<br>LANDUSE: 19 - Residential - Vacation and Cabin<br>LANDUSE_2: 82<br>TOT_ACRES: 1.49<br>LAST_NAME: GAYNOR<br>FIRST_NAME: WILLIAM L &amp; CAROL H<br>ADDRESS_1: 5742 NW SKYLINE BLVD<br>ADDRESS_2: <br>CITY: PORTLAND<br>STATE: OR<br>ZIP: 972291303<br>SITUS_ADDR: 641 N HAMMA RIDGE DR, LILLIWAUP 98555<br>LEGAL_DESC: LOT: 4 OF SP #2388           S 13/237<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -4466,11 +4389,8 @@ Portland, OR 97229]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#26 323047590083</name>
-      <description><![CDATA[Andrew &amp; Susan McGregor<br>
-<br>
-1094 Blue Sky Dr.<br>
-Port Townsend, WA  98368]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 46174<br>PIN: 323047590083<br>Taxlot: 7590083<br>Map_number: 32303<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 3<br>QTR: B<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: Urban<br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-90083<br>Shape_area: 61063.7355113<br>Shape_len: 1053.8195336<br>Rowid_: 19611<br>OBJECTID: 0<br>PIN_1: 323047590083<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 401085<br>ASSESS_VAL: 401085<br>MARKET_LV: 112175<br>MARKET_BV: 288910<br>ASSESS_LV: 112175<br>ASSESS_BV: 288910<br>TAX_VALUE: 401085<br>DISTRICT: 0311<br>LANDUSE: 19 - Residential - Vacation and Cabin<br>LANDUSE_2: 83<br>TOT_ACRES: 1.4<br>LAST_NAME: MCGREGOR<br>FIRST_NAME: ANDREWJ &amp; SUSAN B<br>ADDRESS_1: 1094 BLUE SKY DR<br>ADDRESS_2: <br>CITY: PORT TOWNSEND<br>STATE: WA<br>ZIP: 98368<br>SITUS_ADDR: 631 N HAMMA RIDGE DR, LILLIWAUP 98555<br>LEGAL_DESC: LOT: 3 OF SP #2388            S 13/237<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -4634,11 +4554,8 @@ Port Townsend, WA  98368]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#25 323047590081</name>
-      <description><![CDATA[Richard &amp; Debbie Flattum<br>
-<br>
-PO Box 355<br>
-Lilliwaup, WA 98555]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 46175<br>PIN: 323047590081<br>Taxlot: 7590081<br>Map_number: 32303<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 3<br>QTR: B<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: Urban<br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-90081<br>Shape_area: 84067.1364546<br>Shape_len: 1163.88550473<br>Rowid_: 10620<br>OBJECTID: 0<br>PIN_1: 323047590081<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 902730<br>ASSESS_VAL: 902730<br>MARKET_LV: 119845<br>MARKET_BV: 782885<br>ASSESS_LV: 119845<br>ASSESS_BV: 782885<br>TAX_VALUE: 902730<br>DISTRICT: 0311<br>LANDUSE: 19 - Residential - Vacation and Cabin<br>LANDUSE_2: 82<br>TOT_ACRES: 1.93<br>LAST_NAME: FLATTUM<br>FIRST_NAME: RICHARD D &amp; DEBORAH A<br>ADDRESS_1: PO BOX 355<br>ADDRESS_2: <br>CITY: LILLIWAUP<br>STATE: WA<br>ZIP: 985550355<br>SITUS_ADDR: 600 N HAMMA RIDGE DR, LILLIWAUP 98555<br>LEGAL_DESC: LOT: 1 OF SP #2388             S 13/237, S 37/161<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -4808,11 +4725,8 @@ Lilliwaup, WA 98555]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#28 323047590082</name>
-      <description><![CDATA[Sig Chester<br>
-<br>
-1809 10TH Ave SE<br>
-Olympia, WA 98501]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 46176<br>PIN: 323047590082<br>Taxlot: 7590082<br>Map_number: 32304<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 4<br>QTR: A<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: UrbanGrowth<br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-90082<br>Shape_area: 86111.2315641<br>Shape_len: 1247.75970091<br>Rowid_: 30521<br>OBJECTID: 0<br>PIN_1: 323047590082<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 69950<br>ASSESS_VAL: 69950<br>MARKET_LV: 69950<br>MARKET_BV: 0<br>ASSESS_LV: 69950<br>ASSESS_BV: 0<br>TAX_VALUE: 69950<br>DISTRICT: 0312<br>LANDUSE: 91 - Undeveloped - Land<br>LANDUSE_2: 15<br>TOT_ACRES: 1.98<br>LAST_NAME: CHESTER<br>FIRST_NAME: SIG M<br>ADDRESS_1: 1809 10TH AVE SE<br>ADDRESS_2: <br>CITY: OLYMPIA<br>STATE: WA<br>ZIP: 98501-1818<br>SITUS_ADDR: 640 N HAMMA RIDGE DR, LILLIWAUP 98555<br>LEGAL_DESC: LOT: 2 OF SP #2388           S 13/237<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -4983,11 +4897,8 @@ Olympia, WA 98501]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#24 323047590091</name>
-      <description><![CDATA[Chris & Rebecca Turner<br>
-<br>
-413 Bear Creek Estates<br>
-Sequim WA 98382]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 46177<br>PIN: 323047590091<br>Taxlot: 7590091<br>Map_number: 32303<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 3<br>QTR: B<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: Urban<br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-90091<br>Shape_area: 390067.036912<br>Shape_len: 3028.98833423<br>Rowid_: 37306<br>OBJECTID: 0<br>PIN_1: 323047590091<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 108220<br>ASSESS_VAL: 108220<br>MARKET_LV: 105720<br>MARKET_BV: 2500<br>ASSESS_LV: 105720<br>ASSESS_BV: 2500<br>TAX_VALUE: 108220<br>DISTRICT: 0311<br>LANDUSE: 91 - Undeveloped - Land<br>LANDUSE_2: 00<br>TOT_ACRES: 8.95<br>LAST_NAME: TURNER<br>FIRST_NAME: REBECCA L &amp; CHRISTIAN A<br>ADDRESS_1: 413 BEAR CREEK ESTATES<br>ADDRESS_2: <br>CITY: SEQUIM<br>STATE: WA<br>ZIP: 98382<br>SITUS_ADDR: 413 N HAMMA RIDGE DR, LILLIWAUP 98555<br>LEGAL_DESC: LOT: B OF SP #1914 AF #499783     PTN TR 9-B      S 13/237, S 49/51<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -5172,11 +5083,8 @@ Sequim WA 98382]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#23 323047590106</name>
-      <description><![CDATA[Donald &amp; Sharon Kultti<br>
-<br>
-4925 Alpenglow Drive NW<br>
-Bremerton, Wa 98312]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 46182<br>PIN: 323047590106<br>Taxlot: 7590106<br>Map_number: 32303<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 3<br>QTR: B<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: Urban<br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-90106<br>Shape_area: 107681.58055<br>Shape_len: 1469.46080672<br>Rowid_: 12167<br>OBJECTID: 0<br>PIN_1: 323047590106<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 88515<br>ASSESS_VAL: 88515<br>MARKET_LV: 77515<br>MARKET_BV: 11000<br>ASSESS_LV: 77515<br>ASSESS_BV: 11000<br>TAX_VALUE: 88515<br>DISTRICT: 0311<br>LANDUSE: 91 - Undeveloped - Land<br>LANDUSE_2: 15<br>TOT_ACRES: 2.47<br>LAST_NAME: KULTTI<br>FIRST_NAME: DONALD R &amp; SHARON L<br>ADDRESS_1: 4925 ALPENGLOW DR NW<br>ADDRESS_2: <br>CITY: BREMERTON<br>STATE: WA<br>ZIP: 98312-9605<br>SITUS_ADDR: 330 N HAMMA RIDGE DR, LILLIWAUP 98555<br>LEGAL_DESC: LOT: 4 SP #2869  PTN TRS 10-C,D S 13/237<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -5359,11 +5267,8 @@ Bremerton, Wa 98312]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#22 323047590090</name>
-      <description><![CDATA[Shawn &amp; Lorraine Hake<br>
-<br>
-1005 207th St. SW<br>
-Lynnwood, WA 98036]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 46184<br>PIN: 323047590090<br>Taxlot: 7590090<br>Map_number: 32303<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 3<br>QTR: B<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: Urban<br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-90090<br>Shape_area: 140520.230739<br>Shape_len: 1454.38180551<br>Rowid_: 2810<br>OBJECTID: 0<br>PIN_1: 323047590090<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 96300<br>ASSESS_VAL: 96300<br>MARKET_LV: 87800<br>MARKET_BV: 8500<br>ASSESS_LV: 87800<br>ASSESS_BV: 8500<br>TAX_VALUE: 96300<br>DISTRICT: 0311<br>LANDUSE: 91 - Undeveloped - Land<br>LANDUSE_2: 15<br>TOT_ACRES: 3.23<br>LAST_NAME: HAKE<br>FIRST_NAME: SHAWN &amp; LORRAINE<br>ADDRESS_1: 1005 207TH ST SW<br>ADDRESS_2: <br>CITY: LYNNWOOD<br>STATE: WA<br>ZIP: 98036<br>SITUS_ADDR: 211 N HAMMA RIDGE DR, LILLIWAUP 98555<br>LEGAL_DESC: LOT: A OF SP #1914  PTN TR 9-A S 13/237 , S 49/100<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -5543,11 +5448,8 @@ Lynnwood, WA 98036]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>323047590104</name>
-      <description><![CDATA[Adam Cuppoletti<br>
-<br>
-1024 Country Club Drive<br>
-Petaluma, CA 94952]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 46185<br>PIN: 323047590104<br>Taxlot: 7590104<br>Map_number: 32303<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 3<br>QTR: B<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: Urban<br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-90104<br>Shape_area: 87619.7477769<br>Shape_len: 1330.77950215<br>Rowid_: 34906<br>OBJECTID: 0<br>PIN_1: 323047590104<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 45220<br>ASSESS_VAL: 45220<br>MARKET_LV: 34220<br>MARKET_BV: 11000<br>ASSESS_LV: 34220<br>ASSESS_BV: 11000<br>TAX_VALUE: 45220<br>DISTRICT: 0311<br>LANDUSE: 91 - Undeveloped - Land<br>LANDUSE_2: 15<br>TOT_ACRES: 2.01<br>LAST_NAME: CUPPOLETTI<br>FIRST_NAME: ADAM S<br>ADDRESS_1: 1024 COUNTRY CLUB DR<br>ADDRESS_2: <br>CITY: PETALUMA<br>STATE: CA<br>ZIP: 94952<br>SITUS_ADDR: 101 N HAMMA VISTA, LILLIWAUP 98555<br>LEGAL_DESC: LOT: 2 SP #2869  PTN TRS 10-C,D S 13/237<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -5715,11 +5617,8 @@ Petaluma, CA 94952]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#17 323047590102</name>
-      <description><![CDATA[Letitia Reason<br>
-<br>
-15712 Shanahan Rd SW<br>
-Vashon, WA  98070]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 46187<br>PIN: 323047590102<br>Taxlot: 7590102<br>Map_number: 32303<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 3<br>QTR: B<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: Urban<br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-90102<br>Shape_area: 96660.8013764<br>Shape_len: 1358.2276071<br>Rowid_: 25036<br>OBJECTID: 0<br>PIN_1: 323047590102<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 76110<br>ASSESS_VAL: 76110<br>MARKET_LV: 73610<br>MARKET_BV: 2500<br>ASSESS_LV: 73610<br>ASSESS_BV: 2500<br>TAX_VALUE: 76110<br>DISTRICT: 0311<br>LANDUSE: 91 - Undeveloped - Land<br>LANDUSE_2: 15<br>TOT_ACRES: 2.21<br>LAST_NAME: REASON<br>FIRST_NAME: LETITIA       L<br>ADDRESS_1: 15712 SHANAHAN RD SW<br>ADDRESS_2: <br>CITY: VASHON<br>STATE: WA<br>ZIP: 98070-4313<br>SITUS_ADDR: <br>LEGAL_DESC: LOT: 1 SP #2869  PTN TRS 10-C,D S 13/237, S 47/78 , S 47/123<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -5886,11 +5785,8 @@ Vashon, WA  98070]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#20 323047590100</name>
-      <description><![CDATA[Charles &amp; Susanna Jones<br>
-<br>
-PO Box 53<br>
-Lilliwaup, WA 98555]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 46190<br>PIN: 323047590100<br>Taxlot: 7590100<br>Map_number: 32303<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 3<br>QTR: B<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: Urban<br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-90100<br>Shape_area: 174120.423727<br>Shape_len: 1809.38061879<br>Rowid_: 5115<br>OBJECTID: 0<br>PIN_1: 323047590100<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 970880<br>ASSESS_VAL: 970880<br>MARKET_LV: 139270<br>MARKET_BV: 831610<br>ASSESS_LV: 139270<br>ASSESS_BV: 831610<br>TAX_VALUE: 970880<br>DISTRICT: 0311<br>LANDUSE: 11 - Residential - Single Family<br>LANDUSE_2: 12<br>TOT_ACRES: 4<br>LAST_NAME: JONES<br>FIRST_NAME: CHARLES C &amp; SUSANNA G<br>ADDRESS_1: P O BOX 53<br>ADDRESS_2: <br>CITY: LILLIWAUP<br>STATE: WA<br>ZIP: 985550053<br>SITUS_ADDR: 210 N HAMMA RIDGE DR, LILLIWAUP 98555<br>LEGAL_DESC: LOT: A OF SP #1915  AF #499784   PTN TR 10-A S 13/237<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -6059,11 +5955,8 @@ Lilliwaup, WA 98555]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#19 323047590101</name>
-      <description><![CDATA[Steven Rysavy &amp; Erin Cipolla<br>
-<br>
-868 NW 80th Street<br>
-Seattle, WA 98117]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 46191<br>PIN: 323047590101<br>Taxlot: 7590101<br>Map_number: 32303<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 3<br>QTR: B<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: Urban<br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-90101<br>Shape_area: 235122.546753<br>Shape_len: 1936.31459749<br>Rowid_: 53900<br>OBJECTID: 0<br>PIN_1: 323047590101<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 856355<br>ASSESS_VAL: 856355<br>MARKET_LV: 148150<br>MARKET_BV: 708205<br>ASSESS_LV: 148150<br>ASSESS_BV: 708205<br>TAX_VALUE: 856355<br>DISTRICT: 0311<br>LANDUSE: 19 - Residential - Vacation and Cabin<br>LANDUSE_2: 83<br>TOT_ACRES: 5.4<br>LAST_NAME: RYSAVY ET UX<br>FIRST_NAME: STEVEN J<br>ADDRESS_1: ERIN I CIPOLLA<br>ADDRESS_2: 868 NW 80TH ST<br>CITY: SEATTLE<br>STATE: WA<br>ZIP: 98117<br>SITUS_ADDR: 90 N HAMMA VISTA, LILLIWAUP 98555<br>LEGAL_DESC: LOT: B OF SP #1915  PTN TR 10-B S 13/237<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -6236,11 +6129,8 @@ Seattle, WA 98117]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#6 323047590023</name>
-      <description><![CDATA[Hannah &amp; Will Wright<br>
-<br>
-1415 Commercial Ave #123<br>
-Anacortes, WA 98221]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 57977<br>PIN: 323047590023<br>Taxlot: 7590023<br>Map_number: 32304<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 4<br>QTR: A<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: UrbanGrowth<br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-90023<br>Shape_area: 160308.662707<br>Shape_len: 1570.02667734<br>Rowid_: 28155<br>OBJECTID: 0<br>PIN_1: 323047590023<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 287835<br>ASSESS_VAL: 287835<br>MARKET_LV: 39600<br>MARKET_BV: 248235<br>ASSESS_LV: 39600<br>ASSESS_BV: 248235<br>TAX_VALUE: 287835<br>DISTRICT: 0311<br>LANDUSE: 19 - Residential - Vacation and Cabin<br>LANDUSE_2: 81<br>TOT_ACRES: 3.68<br>LAST_NAME: WRIGHT<br>FIRST_NAME: HANNAH &amp; WILLIAM<br>ADDRESS_1: 1415 COMMERCIAL AVE #123<br>ADDRESS_2: <br>CITY: ANACORTES<br>STATE: WA<br>ZIP: 98221<br>SITUS_ADDR: 21 N HAMMA RIDGE CT, LILLIWAUP 98555<br>LEGAL_DESC: LOTS 2-3 OF SP #2417 AF #585094       PTN OF N1/2 NE      DPC #17-23 AF #2081366      S 13/237<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -6406,11 +6296,8 @@ Anacortes, WA 98221]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#30 323047590060</name>
-      <description><![CDATA[Michael Hanson<br>
-<br>
-PO Box 329<br>
-Lilliwaup, WA 98555]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 60100<br>PIN: 323047590060<br>Taxlot: 7590060<br>Map_number: 32304<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 4<br>QTR: A<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: UrbanGrowth<br>SEG_NUMBER: 22-110<br>TERRA_PIN: 32304-75-90060<br>Shape_area: 242306.602617<br>Shape_len: 2886.18630738<br>Rowid_: 54248<br>OBJECTID: 0<br>PIN_1: 323047590060<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 1519680<br>ASSESS_VAL: 1519680<br>MARKET_LV: 149045<br>MARKET_BV: 1370635<br>ASSESS_LV: 149045<br>ASSESS_BV: 1370635<br>TAX_VALUE: 1519680<br>DISTRICT: 0311<br>LANDUSE: 19 - Residential - Vacation and Cabin<br>LANDUSE_2: 82<br>TOT_ACRES: 5.56<br>LAST_NAME: HANSON 2018 TRUST<br>FIRST_NAME: MICHAEL R<br>ADDRESS_1: MICHAEL R HANSON TRUSTEE<br>ADDRESS_2: P O BOX 329<br>CITY: LILLIWAUP<br>STATE: WA<br>ZIP: 98555<br>SITUS_ADDR: 790 N HAMMA RIDGE DR, LILLIWAUP 98555<br>LEGAL_DESC: LOT A OF SP #1913 AF #499782    PTN OF GOVT LOT 1    &amp;    LOT 3 OF SP #2874 AF #645730     PTN OF GOVT LOT 1      DPC #22-08 AF #2187850     S 13/237, S 28/153<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -6578,11 +6465,8 @@ Lilliwaup, WA 98555]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#12 323047590052</name>
-      <description><![CDATA[Jason Eder &amp; Lorin Walker<br>
-<br>
-820 North Hamma Ridge Drive<br>
-Lilliwaup, WA 98555]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 60123<br>PIN: 323047590052<br>Taxlot: 7590052<br>Map_number: 32304<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 4<br>QTR: A<br>QTRQTR: <br>AFN: <br>WhoCreated: <br>MapAccurac: <br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-90052<br>Shape_area: 106630.968163<br>Shape_len: 1331.07312742<br>Rowid_: 40532<br>OBJECTID: 0<br>PIN_1: 323047590052<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 853525<br>ASSESS_VAL: 853525<br>MARKET_LV: 60560<br>MARKET_BV: 792965<br>ASSESS_LV: 60560<br>ASSESS_BV: 792965<br>TAX_VALUE: 853525<br>DISTRICT: 0311<br>LANDUSE: 19 - Residential - Vacation and Cabin<br>LANDUSE_2: 81<br>TOT_ACRES: 2.4<br>LAST_NAME: WALKER ET VIR<br>FIRST_NAME: LORIN M<br>ADDRESS_1: JAMES J EDER<br>ADDRESS_2: 820 N HAMMA RIDGE DR<br>CITY: LILLIWAUP<br>STATE: WA<br>ZIP: 98555<br>SITUS_ADDR: 820 N HAMMA RIDGE DR, LILLIWAUP 98555<br>LEGAL_DESC: PCL 1 OF BLA #22-17 AF #2187321      PTN OF GOVT LOT 1      S 13/327<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -6744,7 +6628,7 @@ Lilliwaup, WA 98555]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>323047500070</name>
+      <name/>
       <description><![CDATA[description: <br>FID: 60124<br>PIN: 323047500070<br>Taxlot: 7500070<br>Map_number: 32304<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 4<br>QTR: A<br>QTRQTR: <br>AFN: <br>WhoCreated: <br>MapAccurac: <br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-00070<br>Shape_area: 487361.152362<br>Shape_len: 3689.52141508<br>Rowid_: 7855<br>OBJECTID: 0<br>PIN_1: 323047500070<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 202745<br>ASSESS_VAL: 202745<br>MARKET_LV: 200245<br>MARKET_BV: 2500<br>ASSESS_LV: 200245<br>ASSESS_BV: 2500<br>TAX_VALUE: 202745<br>DISTRICT: 0311<br>LANDUSE: 91 - Undeveloped - Land<br>LANDUSE_2: 00<br>TOT_ACRES: 10.9<br>LAST_NAME: CAMPBELL<br>FIRST_NAME: IAN &amp; COURTNEY A T<br>ADDRESS_1: 2019 FAIRVIEW AVE E, UNIT D<br>ADDRESS_2: <br>CITY: SEATTLE<br>STATE: WA<br>ZIP: 98102<br>SITUS_ADDR: 824 N HAMMA RIDGE DR, LILLIWAUP 98555<br>LEGAL_DESC: PCL 2 OF BLA #22-17 AF #2187321       PTN OF GOVT LOT 1       S 13/327<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
@@ -6916,11 +6800,8 @@ Lilliwaup, WA 98555]]></description>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>#16 323047590103</name>
-      <description><![CDATA[Brian &amp; Ann Barton<br>
-<br>
-P.O. Box 8314<br>
-Bonney Lake, WA 09391]]></description>
+      <name/>
+      <description><![CDATA[description: <br>FID: 60125<br>PIN: 323047590103<br>Taxlot: 7590103<br>Map_number: 32303<br>Township: 23<br>Towndir: N<br>Range: 3<br>Rangedir: W<br>Section: 3<br>QTR: B<br>QTRQTR: <br>AFN: <br>WhoCreated: ESU<br>MapAccurac: Urban<br>SEG_NUMBER: <br>TERRA_PIN: 32304-75-90103<br>Shape_area: 248619.448825<br>Shape_len: 2078.45118794<br>Rowid_: 19193<br>OBJECTID: 0<br>PIN_1: 323047590103<br>PARCELTYPE: Active<br>IS_EXEMPT: No<br>MARKET_VAL: 683845<br>ASSESS_VAL: 683845<br>MARKET_LV: 172885<br>MARKET_BV: 510960<br>ASSESS_LV: 172885<br>ASSESS_BV: 510960<br>TAX_VALUE: 683845<br>DISTRICT: 0311<br>LANDUSE: 11 - Residential - Single Family<br>LANDUSE_2: 12<br>TOT_ACRES: 6<br>LAST_NAME: BARTON<br>FIRST_NAME: BRIAN J &amp; ANNE M<br>ADDRESS_1: PO BOX 8314<br>ADDRESS_2: <br>CITY: BONNEY LAKE<br>STATE: WA<br>ZIP: 98391<br>SITUS_ADDR: 100 N HAMMA VISTA, LILLIWAUP 98555<br>LEGAL_DESC: PCL 3 OF BLA #22-17 AF #2187321      PTN OF GOVT LOT 1      S 13/327, S 33/145<br>SUB_NAME: <br>LONGITUDE: 0<br>LATITUDE: 0]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
