@@ -2243,10 +2243,9 @@ University Place, WA 98467]]></description>
     </Placemark>
     <Placemark>
       <name>#1 323047590012</name>
-      <description><![CDATA[James &amp; Marilyn Kromwall<br>
-<br>
-PO Box 358<br>
-Lilliwaup, WA 98555]]></description>
+      <description><![CDATA[Hannah Jette<br>
+<br>800 W Nickerson St Apt D<br>
+Seattle, WA 98119]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -2355,13 +2354,13 @@ Lilliwaup, WA 98555]]></description>
           <value>3.34</value>
         </Data>
         <Data name="LAST_NAME">
-          <value>KROMWALL</value>
+          <value></value>
         </Data>
         <Data name="FIRST_NAME">
-          <value><![CDATA[JAMES &amp; MARILYN]]></value>
+          <value></value>
         </Data>
         <Data name="ADDRESS_1">
-          <value>PO BOX 358</value>
+          <value></value>
         </Data>
         <Data name="ADDRESS_2">
           <value/>
