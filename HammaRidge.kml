@@ -4296,10 +4296,10 @@ Everett, WA 98208]]></description>
     </Placemark>
     <Placemark>
       <name>#27 323047590084</name>
-      <description><![CDATA[William &amp; Carol Gaynor<br>
+      <description><![CDATA[Gabriel Silberblatt &amp; Ellen Lohe<br>
 <br>
-5742 NW Skyline Blvd.<br>
-Portland, OR 97229]]></description>
+3235 37th Pl S.<br>
+Seattle, WA 98144]]></description>
       <styleUrl>#m_ylw-pushpin0</styleUrl>
       <ExtendedData>
         <Data name="description">
@@ -4408,25 +4408,25 @@ Portland, OR 97229]]></description>
           <value>1.49</value>
         </Data>
         <Data name="LAST_NAME">
-          <value>GAYNOR</value>
+          <value></value>
         </Data>
         <Data name="FIRST_NAME">
-          <value><![CDATA[WILLIAM L &amp; CAROL H]]></value>
+          <value></value>
         </Data>
         <Data name="ADDRESS_1">
-          <value>5742 NW SKYLINE BLVD</value>
+          <value></value>
         </Data>
         <Data name="ADDRESS_2">
           <value/>
         </Data>
         <Data name="CITY">
-          <value>PORTLAND</value>
+          <value></value>
         </Data>
         <Data name="STATE">
-          <value>OR</value>
+          <value></value>
         </Data>
         <Data name="ZIP">
-          <value>972291303</value>
+          <value></value>
         </Data>
         <Data name="SITUS_ADDR">
           <value>641 N HAMMA RIDGE DR, LILLIWAUP 98555</value>
